@@ -1,0 +1,38 @@
+      *{
+       margin : 0;
+       padding: 0;
+       box-sizing: border-box;
+     }
+
+     body {
+      font-family: sans-serif;
+      background-color: #FFBF00;
+    }
+
+    p {
+     font-size: 12pt;
+     text-align: right;
+     margin-right: 15pt;
+     margin-top: 15pt;
+   }
+
+   .verbs {
+    text-align: left;
+    margin-left: 15pt;
+   }
+
+
+   li {
+     list-style-type: none; 
+     line-height: 20pt;
+     margin-left: 15pt;
+   }
+
+   a:link {
+    color: black;
+  }
+
+     a:visited {
+    color: black;
+  }
+

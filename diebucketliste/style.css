@@ -1,0 +1,26 @@
+
+      body {
+        font-family: sans-serif;
+        background-color: darkgray;
+      }
+
+      p {
+        font-size: 12pt;
+        text-align: right;
+        margin-right: 2%;
+        margin-top: 2%;
+      }
+      
+      a:link {
+        color: black;
+      }
+      
+      li {
+        list-style-type: none; 
+        line-height: 17pt;
+        margin-left: 5%;
+      }
+      
+      
+      
+ 
